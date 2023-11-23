@@ -4,9 +4,7 @@
     {
         private static SingletonNaive? _instance;
 
-
         private SingletonNaive() { }
-
 
         public static SingletonNaive Instance => _instance ??= new SingletonNaive();
     }
