@@ -7,7 +7,7 @@
 
         private SingletonLazy() { }
 
-        //Since it's comming from static field return value will never be null;
+        //Since it's coming from static field return value will never be null;
         public static SingletonLazy Instance { get => _instance.Value; }
     }
 }

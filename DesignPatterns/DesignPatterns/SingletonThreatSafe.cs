@@ -3,7 +3,7 @@
     public sealed class SingletonThreatSafe
     {
         private static SingletonThreatSafe? _instance = null;
-        private static readonly object padlock = new object();
+        private static readonly object padlock = new();
 
 
         private SingletonThreatSafe() { }
