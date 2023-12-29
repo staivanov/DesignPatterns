@@ -5,7 +5,6 @@ namespace Strategy.Strategies
 {    //Concrete algorithm for the strategy pattern
     public class HtmlStrategy : IListStrategy
     {
-
         public void Start(StringBuilder sb)
            => sb.AppendLine("<ul>");
 

@@ -10,7 +10,7 @@ namespace Strategy
         private IListStrategy _listStrategy;
 
 
-        public void SetOutPutFormat(OutputFormat outputFormat)
+        public void SetOutputFormat(OutputFormat outputFormat)
         {
             _listStrategy = outputFormat switch
             {

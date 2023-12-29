@@ -16,7 +16,7 @@
 
             Console.WriteLine($"Balance is {bankAccount.Balance} EUR.");
 
-            commands.ForEach(x => x.Undo());        
+            commands.ForEach(x => x.Undo());
             Console.WriteLine($"Balance is {bankAccount.Balance} EUR.");
         }
     }

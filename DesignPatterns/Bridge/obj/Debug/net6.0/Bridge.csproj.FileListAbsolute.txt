@@ -1,0 +1,15 @@
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Bridge\bin\Debug\net6.0\Bridge.exe
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Bridge\bin\Debug\net6.0\Bridge.deps.json
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Bridge\bin\Debug\net6.0\Bridge.runtimeconfig.json
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Bridge\bin\Debug\net6.0\Bridge.dll
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Bridge\bin\Debug\net6.0\Bridge.pdb
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Bridge\obj\Debug\net6.0\Bridge.GeneratedMSBuildEditorConfig.editorconfig
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Bridge\obj\Debug\net6.0\Bridge.AssemblyInfoInputs.cache
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Bridge\obj\Debug\net6.0\Bridge.AssemblyInfo.cs
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Bridge\obj\Debug\net6.0\Bridge.csproj.CoreCompileInputs.cache
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Bridge\obj\Debug\net6.0\Bridge.sourcelink.json
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Bridge\obj\Debug\net6.0\Bridge.dll
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Bridge\obj\Debug\net6.0\refint\Bridge.dll
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Bridge\obj\Debug\net6.0\Bridge.pdb
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Bridge\obj\Debug\net6.0\Bridge.genruntimeconfig.cache
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Bridge\obj\Debug\net6.0\ref\Bridge.dll

@@ -14,7 +14,9 @@
 
         public void Withdraw(int amount)
         {
-            if (Balance - amount >= OverdraftLimit)
+            bool isValidWithdraw = (Balance - amount) >= OverdraftLimit;
+
+            if (isValidWithdraw)
             {
                 Balance -= amount;
             }

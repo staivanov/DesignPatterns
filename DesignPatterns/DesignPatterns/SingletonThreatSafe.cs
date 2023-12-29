@@ -13,11 +13,11 @@
         {
             get
             {
-                if(_instance is null) //Locked only if a instance is null.
+                if (_instance is null) //Locked only if a instance is null.
                 {
                     lock (padlock)
                     {
-                        if(_instance is null)
+                        if (_instance is null)
                         {
                             return _instance = new SingletonThreatSafe();
                         }

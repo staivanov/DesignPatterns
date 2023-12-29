@@ -26,7 +26,7 @@
                     break;
                 case BankOperation.Deposit:
                     Account.Deposit(Amount);
-                    break;                 
+                    break;
             }
         }
 

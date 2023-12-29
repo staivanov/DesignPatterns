@@ -7,8 +7,6 @@ namespace DesignPatterns
         static void Main()
         {
             SingletonNaive singleton = SingletonNaive.Instance;
-
-
         }
     }
 }

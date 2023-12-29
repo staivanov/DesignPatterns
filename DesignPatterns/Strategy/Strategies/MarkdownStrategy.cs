@@ -7,9 +7,9 @@ namespace Strategy.Strategies
     {   //Not SOLID friendly to don't implement all from the interface.
         public void Start(StringBuilder sb) { }
 
-        public void AddListItem(StringBuilder sb,string item)
+        public void AddListItem(StringBuilder sb, string item)
             => sb.AppendLine($"* {item} ");
 
-        public void End(StringBuilder sb) { }   
+        public void End(StringBuilder sb) { }
     }
 }
