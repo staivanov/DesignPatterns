@@ -17,8 +17,17 @@ namespace Bridge.Licenses
             PurchaseDate = purchaseTime;
         }
 
+        public decimal GetPrice()
+        {
+            int discount = _discounts.GetDiscount();
+            decimal multiplier = 1 - discount / 100m,
+                price = GetPriceMain() * multiplier;
 
-        public abstract decimal GetPrice();
+            return price;
+        }
+
+
+        protected abstract decimal GetPriceMain();
         public abstract DateTime? GetExpirationDate();
     }
 }

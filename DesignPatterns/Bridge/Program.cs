@@ -1,4 +1,6 @@
-﻿using Bridge.Licenses;
+﻿using Bridge.Discounts;
+using Bridge.Licenses;
+using static System.Console;
 
 namespace Bridge
 {
@@ -7,24 +9,41 @@ namespace Bridge
         public static void Main()
         {
             DateTime now = DateTime.Now;
-            Concert motleyCrue = new("Motley Crue");
-            Concert deepPurple = new("Deep Purple");
 
-            ThreeDaysLicense threeDaysLicense = new(motleyCrue, new DateTime(2023, 12, 15)); ;
-            LifeLongLicense lifeLongLicense = new(deepPurple, new DateTime(2023, 12, 29));
+            List<Concert> concerts = new()
+            {
+                new("Motley Crue"),
+                new("Deep Purple"),
+                new("Led Zeppelin"),
+                new("KiSS"),
+                new("Foreign")
+             };
 
+            NoDiscount noDiscount = new();
+            InvalidDiscount invalidDiscount = new();
+            SeniorDiscount seniorDiscount = new();
+
+            ThreeDaysLicense threeDaysLicense = new(concerts[0], now, noDiscount);
+            LifeLongLicense lifeLongLicense = new(concerts[1], now, noDiscount);
+            ThreeDaysLicense threeDaysLicenseTwo = new(concerts[2], now, invalidDiscount);
+            LifeLongLicense lifeLongLicenseTwo = new(concerts[3], now, seniorDiscount);
+        
 
             PrintLicenseDetails(threeDaysLicense);
-            Console.WriteLine();
+            WriteLine();
             PrintLicenseDetails(lifeLongLicense);
+            WriteLine();
+            PrintLicenseDetails(threeDaysLicenseTwo);
+            WriteLine();
+            PrintLicenseDetails(lifeLongLicenseTwo);
         }
 
 
         private static void PrintLicenseDetails(ConcertLicense license)
         {
-            Console.WriteLine($"Brand name: {license.Concert.BandName}");
-            Console.WriteLine($"Price: {license.GetPrice()}");
-            Console.WriteLine($"Licens: {GetValidFor(license)}");
+            WriteLine($"Brand name: {license.Concert.BandName}");
+            WriteLine($"Price: {license.GetPrice()}");
+            WriteLine($"Licens: {GetValidFor(license)}");
         }
 
 

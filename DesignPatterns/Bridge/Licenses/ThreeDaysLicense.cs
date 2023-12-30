@@ -1,23 +1,24 @@
-﻿namespace Bridge.Licenses
+﻿using Bridge.Discounts;
+
+namespace Bridge.Licenses
 {
     public class ThreeDaysLicense : ConcertLicense
     {
-
-        public ThreeDaysLicense(Concert concert, DateTime purchaseTime)
-            : base(concert, purchaseTime)
+        public ThreeDaysLicense(Concert concert, DateTime purchaseTime, Discount discount)
+            : base(concert, purchaseTime, discount)
         {
         }
 
-        public override decimal GetPrice()
-        {
-            decimal price = 5;
-
-            return price;
-        }
 
         public override DateTime? GetExpirationDate()
         {
             return PurchaseDate.AddDays(5);
+        }
+
+
+        protected override decimal GetPriceMain()
+        {
+            return 5;
         }
     }
 }

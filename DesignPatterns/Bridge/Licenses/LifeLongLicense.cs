@@ -1,9 +1,11 @@
-﻿namespace Bridge.Licenses
+﻿using Bridge.Discounts;
+
+namespace Bridge.Licenses
 {
     public class LifeLongLicense : ConcertLicense
     {
-        public LifeLongLicense(Concert concert, DateTime purchaseTime)
-            : base(concert, purchaseTime)
+        public LifeLongLicense(Concert concert, DateTime purchaseTime, Discount discount)
+            : base(concert, purchaseTime, discount)
         {
         }
 
@@ -14,11 +16,9 @@
         }
 
 
-        public override decimal GetPrice()
+        protected override decimal GetPriceMain()
         {
-            decimal price = 20;
-
-            return price;
+            return 20;
         }
     }
 }
