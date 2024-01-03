@@ -1,0 +1,15 @@
+P:\Architecture\CommonDesignPatterns\DesignPatterns\NullObject\bin\Debug\net6.0\NullObject.exe
+P:\Architecture\CommonDesignPatterns\DesignPatterns\NullObject\bin\Debug\net6.0\NullObject.deps.json
+P:\Architecture\CommonDesignPatterns\DesignPatterns\NullObject\bin\Debug\net6.0\NullObject.runtimeconfig.json
+P:\Architecture\CommonDesignPatterns\DesignPatterns\NullObject\bin\Debug\net6.0\NullObject.dll
+P:\Architecture\CommonDesignPatterns\DesignPatterns\NullObject\bin\Debug\net6.0\NullObject.pdb
+P:\Architecture\CommonDesignPatterns\DesignPatterns\NullObject\obj\Debug\net6.0\NullObject.GeneratedMSBuildEditorConfig.editorconfig
+P:\Architecture\CommonDesignPatterns\DesignPatterns\NullObject\obj\Debug\net6.0\NullObject.AssemblyInfoInputs.cache
+P:\Architecture\CommonDesignPatterns\DesignPatterns\NullObject\obj\Debug\net6.0\NullObject.AssemblyInfo.cs
+P:\Architecture\CommonDesignPatterns\DesignPatterns\NullObject\obj\Debug\net6.0\NullObject.csproj.CoreCompileInputs.cache
+P:\Architecture\CommonDesignPatterns\DesignPatterns\NullObject\obj\Debug\net6.0\NullObject.sourcelink.json
+P:\Architecture\CommonDesignPatterns\DesignPatterns\NullObject\obj\Debug\net6.0\NullObject.dll
+P:\Architecture\CommonDesignPatterns\DesignPatterns\NullObject\obj\Debug\net6.0\refint\NullObject.dll
+P:\Architecture\CommonDesignPatterns\DesignPatterns\NullObject\obj\Debug\net6.0\NullObject.pdb
+P:\Architecture\CommonDesignPatterns\DesignPatterns\NullObject\obj\Debug\net6.0\NullObject.genruntimeconfig.cache
+P:\Architecture\CommonDesignPatterns\DesignPatterns\NullObject\obj\Debug\net6.0\ref\NullObject.dll
