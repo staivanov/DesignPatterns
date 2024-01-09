@@ -8,7 +8,9 @@
             List<BankAccountCommand> commands = new()
             {
                 new BankAccountCommand(bankAccount, BankOperation.Deposit, 1000),
-                new BankAccountCommand(bankAccount, BankOperation.Withdraw, 100)
+                new BankAccountCommand(bankAccount, BankOperation.Withdraw, 100),
+                new BankAccountCommand(bankAccount, BankOperation.Deposit, 500),
+                new BankAccountCommand(bankAccount, BankOperation.Withdraw, 500),
             };
 
             Console.WriteLine($"Balance is {bankAccount.Balance} EUR.");
