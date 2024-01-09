@@ -9,13 +9,13 @@ namespace Bridge.Licenses
         public DateTime PurchaseDate { get; }
 
 
-
         protected ConcertLicense(Concert concert, DateTime purchaseTime, Discount discount)
         {
             _discounts = discount;
             Concert = concert;
             PurchaseDate = purchaseTime;
         }
+
 
         public decimal GetPrice()
         {

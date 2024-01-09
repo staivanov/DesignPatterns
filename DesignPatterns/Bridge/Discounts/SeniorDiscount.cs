@@ -2,6 +2,9 @@
 {
     public class SeniorDiscount : Discount
     {
-        public override int GetDiscount() => 20;
+        public override int GetDiscount()
+        {
+            return 20;
+        }
     }
 }

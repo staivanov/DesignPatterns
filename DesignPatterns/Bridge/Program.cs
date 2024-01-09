@@ -27,7 +27,7 @@ namespace Bridge
             LifeLongLicense lifeLongLicense = new(concerts[1], now, noDiscount);
             ThreeDaysLicense threeDaysLicenseTwo = new(concerts[2], now, invalidDiscount);
             LifeLongLicense lifeLongLicenseTwo = new(concerts[3], now, seniorDiscount);
-        
+
 
             PrintLicenseDetails(threeDaysLicense);
             WriteLine();
@@ -52,13 +52,14 @@ namespace Bridge
             DateTime? expirationDate = license.GetExpirationDate();
 
             if (expirationDate == null)
+            {
                 return "Forever";
+            }
 
             TimeSpan? timeSpan = expirationDate.Value - DateTime.Now;
             string expirationTimeSpan = $"{timeSpan.Value.Days}d {timeSpan.Value.Hours}h {timeSpan.Value.Minutes}m";
 
             return expirationTimeSpan;
-
         }
     }
 }

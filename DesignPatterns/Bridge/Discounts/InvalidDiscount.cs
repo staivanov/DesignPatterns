@@ -2,6 +2,9 @@
 {
     public class InvalidDiscount : Discount
     {
-        public override int GetDiscount() => 15;
+        public override int GetDiscount()
+        {
+            return 15;
+        }
     }
 }

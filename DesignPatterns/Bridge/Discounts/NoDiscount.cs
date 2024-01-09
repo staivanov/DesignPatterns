@@ -2,6 +2,9 @@
 {
     public class NoDiscount : Discount
     {
-        public override int GetDiscount() => 0;
+        public override int GetDiscount()
+        {
+            return 0;
+        }
     }
 }
