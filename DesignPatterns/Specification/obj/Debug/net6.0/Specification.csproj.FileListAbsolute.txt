@@ -1,0 +1,15 @@
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Specification\bin\Debug\net6.0\Specification.exe
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Specification\bin\Debug\net6.0\Specification.deps.json
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Specification\bin\Debug\net6.0\Specification.runtimeconfig.json
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Specification\bin\Debug\net6.0\Specification.dll
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Specification\bin\Debug\net6.0\Specification.pdb
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Specification\obj\Debug\net6.0\Specification.GeneratedMSBuildEditorConfig.editorconfig
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Specification\obj\Debug\net6.0\Specification.AssemblyInfoInputs.cache
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Specification\obj\Debug\net6.0\Specification.AssemblyInfo.cs
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Specification\obj\Debug\net6.0\Specification.csproj.CoreCompileInputs.cache
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Specification\obj\Debug\net6.0\Specification.sourcelink.json
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Specification\obj\Debug\net6.0\Specification.dll
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Specification\obj\Debug\net6.0\refint\Specification.dll
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Specification\obj\Debug\net6.0\Specification.pdb
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Specification\obj\Debug\net6.0\Specification.genruntimeconfig.cache
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Specification\obj\Debug\net6.0\ref\Specification.dll
