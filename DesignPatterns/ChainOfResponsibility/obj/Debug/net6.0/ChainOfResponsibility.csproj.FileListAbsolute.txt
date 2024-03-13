@@ -1,0 +1,15 @@
+P:\Architecture\CommonDesignPatterns\DesignPatterns\ChainOfResponsibility\bin\Debug\net6.0\ChainOfResponsibility.exe
+P:\Architecture\CommonDesignPatterns\DesignPatterns\ChainOfResponsibility\bin\Debug\net6.0\ChainOfResponsibility.deps.json
+P:\Architecture\CommonDesignPatterns\DesignPatterns\ChainOfResponsibility\bin\Debug\net6.0\ChainOfResponsibility.runtimeconfig.json
+P:\Architecture\CommonDesignPatterns\DesignPatterns\ChainOfResponsibility\bin\Debug\net6.0\ChainOfResponsibility.dll
+P:\Architecture\CommonDesignPatterns\DesignPatterns\ChainOfResponsibility\bin\Debug\net6.0\ChainOfResponsibility.pdb
+P:\Architecture\CommonDesignPatterns\DesignPatterns\ChainOfResponsibility\obj\Debug\net6.0\ChainOfResponsibility.GeneratedMSBuildEditorConfig.editorconfig
+P:\Architecture\CommonDesignPatterns\DesignPatterns\ChainOfResponsibility\obj\Debug\net6.0\ChainOfResponsibility.AssemblyInfoInputs.cache
+P:\Architecture\CommonDesignPatterns\DesignPatterns\ChainOfResponsibility\obj\Debug\net6.0\ChainOfResponsibility.AssemblyInfo.cs
+P:\Architecture\CommonDesignPatterns\DesignPatterns\ChainOfResponsibility\obj\Debug\net6.0\ChainOfResponsibility.csproj.CoreCompileInputs.cache
+P:\Architecture\CommonDesignPatterns\DesignPatterns\ChainOfResponsibility\obj\Debug\net6.0\ChainOfResponsibility.sourcelink.json
+P:\Architecture\CommonDesignPatterns\DesignPatterns\ChainOfResponsibility\obj\Debug\net6.0\ChainOfResponsibility.dll
+P:\Architecture\CommonDesignPatterns\DesignPatterns\ChainOfResponsibility\obj\Debug\net6.0\refint\ChainOfResponsibility.dll
+P:\Architecture\CommonDesignPatterns\DesignPatterns\ChainOfResponsibility\obj\Debug\net6.0\ChainOfResponsibility.pdb
+P:\Architecture\CommonDesignPatterns\DesignPatterns\ChainOfResponsibility\obj\Debug\net6.0\ChainOfResponsibility.genruntimeconfig.cache
+P:\Architecture\CommonDesignPatterns\DesignPatterns\ChainOfResponsibility\obj\Debug\net6.0\ref\ChainOfResponsibility.dll
