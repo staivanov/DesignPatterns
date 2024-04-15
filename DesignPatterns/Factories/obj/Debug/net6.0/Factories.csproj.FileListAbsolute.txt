@@ -1,0 +1,15 @@
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Factories\bin\Debug\net6.0\Factories.exe
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Factories\bin\Debug\net6.0\Factories.deps.json
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Factories\bin\Debug\net6.0\Factories.runtimeconfig.json
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Factories\bin\Debug\net6.0\Factories.dll
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Factories\bin\Debug\net6.0\Factories.pdb
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Factories\obj\Debug\net6.0\Factories.GeneratedMSBuildEditorConfig.editorconfig
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Factories\obj\Debug\net6.0\Factories.AssemblyInfoInputs.cache
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Factories\obj\Debug\net6.0\Factories.AssemblyInfo.cs
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Factories\obj\Debug\net6.0\Factories.csproj.CoreCompileInputs.cache
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Factories\obj\Debug\net6.0\Factories.sourcelink.json
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Factories\obj\Debug\net6.0\Factories.dll
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Factories\obj\Debug\net6.0\refint\Factories.dll
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Factories\obj\Debug\net6.0\Factories.pdb
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Factories\obj\Debug\net6.0\Factories.genruntimeconfig.cache
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Factories\obj\Debug\net6.0\ref\Factories.dll
