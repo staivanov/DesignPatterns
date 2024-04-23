@@ -1,0 +1,15 @@
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Composite\bin\Debug\net6.0\Composite.exe
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Composite\bin\Debug\net6.0\Composite.deps.json
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Composite\bin\Debug\net6.0\Composite.runtimeconfig.json
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Composite\bin\Debug\net6.0\Composite.dll
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Composite\bin\Debug\net6.0\Composite.pdb
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Composite\obj\Debug\net6.0\Composite.GeneratedMSBuildEditorConfig.editorconfig
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Composite\obj\Debug\net6.0\Composite.AssemblyInfoInputs.cache
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Composite\obj\Debug\net6.0\Composite.AssemblyInfo.cs
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Composite\obj\Debug\net6.0\Composite.csproj.CoreCompileInputs.cache
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Composite\obj\Debug\net6.0\Composite.sourcelink.json
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Composite\obj\Debug\net6.0\Composite.dll
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Composite\obj\Debug\net6.0\refint\Composite.dll
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Composite\obj\Debug\net6.0\Composite.pdb
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Composite\obj\Debug\net6.0\Composite.genruntimeconfig.cache
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Composite\obj\Debug\net6.0\ref\Composite.dll
