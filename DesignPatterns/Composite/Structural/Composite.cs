@@ -2,7 +2,7 @@
 {
     public class Composite : Component
     {
-        private List<Component> _childrens = new();
+        private readonly List<Component> _childrens = new();
 
         public Composite(string name) : base(name)
         {

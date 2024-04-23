@@ -13,3 +13,6 @@ P:\Architecture\CommonDesignPatterns\DesignPatterns\Composite\obj\Debug\net6.0\r
 P:\Architecture\CommonDesignPatterns\DesignPatterns\Composite\obj\Debug\net6.0\Composite.pdb
 P:\Architecture\CommonDesignPatterns\DesignPatterns\Composite\obj\Debug\net6.0\Composite.genruntimeconfig.cache
 P:\Architecture\CommonDesignPatterns\DesignPatterns\Composite\obj\Debug\net6.0\ref\Composite.dll
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Composite\bin\Debug\net6.0\Newtonsoft.Json.dll
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Composite\obj\Debug\net6.0\Composite.csproj.AssemblyReference.cache
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Composite\obj\Debug\net6.0\Composite.csproj.Up2Date

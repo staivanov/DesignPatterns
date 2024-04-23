@@ -5,7 +5,7 @@
     /// </summary>
     public abstract class Component
     {
-        public string Name { get;}
+        public string Name { get; }
 
         protected Component(string name)
             => Name = name;
