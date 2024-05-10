@@ -1,0 +1,15 @@
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Flyweight\bin\Debug\net8.0\Flyweight.exe
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Flyweight\bin\Debug\net8.0\Flyweight.deps.json
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Flyweight\bin\Debug\net8.0\Flyweight.runtimeconfig.json
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Flyweight\bin\Debug\net8.0\Flyweight.dll
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Flyweight\bin\Debug\net8.0\Flyweight.pdb
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Flyweight\obj\Debug\net8.0\Flyweight.GeneratedMSBuildEditorConfig.editorconfig
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Flyweight\obj\Debug\net8.0\Flyweight.AssemblyInfoInputs.cache
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Flyweight\obj\Debug\net8.0\Flyweight.AssemblyInfo.cs
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Flyweight\obj\Debug\net8.0\Flyweight.csproj.CoreCompileInputs.cache
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Flyweight\obj\Debug\net8.0\Flyweight.sourcelink.json
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Flyweight\obj\Debug\net8.0\Flyweight.dll
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Flyweight\obj\Debug\net8.0\refint\Flyweight.dll
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Flyweight\obj\Debug\net8.0\Flyweight.pdb
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Flyweight\obj\Debug\net8.0\Flyweight.genruntimeconfig.cache
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Flyweight\obj\Debug\net8.0\ref\Flyweight.dll
