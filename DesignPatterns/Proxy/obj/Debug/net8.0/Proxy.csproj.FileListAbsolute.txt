@@ -1,0 +1,15 @@
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Proxy\bin\Debug\net8.0\Proxy.exe
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Proxy\bin\Debug\net8.0\Proxy.deps.json
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Proxy\bin\Debug\net8.0\Proxy.runtimeconfig.json
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Proxy\bin\Debug\net8.0\Proxy.dll
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Proxy\bin\Debug\net8.0\Proxy.pdb
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Proxy\obj\Debug\net8.0\Proxy.GeneratedMSBuildEditorConfig.editorconfig
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Proxy\obj\Debug\net8.0\Proxy.AssemblyInfoInputs.cache
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Proxy\obj\Debug\net8.0\Proxy.AssemblyInfo.cs
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Proxy\obj\Debug\net8.0\Proxy.csproj.CoreCompileInputs.cache
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Proxy\obj\Debug\net8.0\Proxy.sourcelink.json
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Proxy\obj\Debug\net8.0\Proxy.dll
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Proxy\obj\Debug\net8.0\refint\Proxy.dll
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Proxy\obj\Debug\net8.0\Proxy.pdb
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Proxy\obj\Debug\net8.0\Proxy.genruntimeconfig.cache
+P:\Architecture\CommonDesignPatterns\DesignPatterns\Proxy\obj\Debug\net8.0\ref\Proxy.dll
